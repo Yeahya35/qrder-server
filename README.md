@@ -10,15 +10,6 @@ This guide will walk you through setting up and running the Django project on yo
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-
-Start by cloning the project repository to your local machine.
-
-```bash
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
-```
-
 ### 2. Create a Virtual Environment
 
 Create a virtual environment to manage the project's dependencies separately from your system-wide Python installation. This step ensures that your project's dependencies don't interfere with other Python projects.
